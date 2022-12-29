@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">My project</h2>
+<h4 align="left">My project</h4>
 
 ### 
 
