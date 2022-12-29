@@ -22,17 +22,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=ar" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=false&custom_title=JS, React, NodeJS, Express, MongoDB&username=ar" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ar/ar/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/ar/count.svg?"  />
 </div>
 
