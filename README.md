@@ -21,7 +21,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/ar/count.svg?"  />
 </div>
 
