@@ -24,6 +24,4 @@
   <img src="https://profile-counter.glitch.me/ar/count.svg?"  />
 </div>
 
-### 
-
 <h2 align="left">My project</h2>
