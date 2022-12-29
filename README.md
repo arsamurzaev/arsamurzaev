@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+Me)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsamurzaev)](https://git.io/streak-stats)
 <!--
 **arsamurzaev/arsamurzaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
