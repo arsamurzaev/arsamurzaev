@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-###
 
 <h2 align="left">My name is Denis, I am 19 y.o</h2>
 
@@ -25,4 +24,3 @@
   <img src="https://profile-counter.glitch.me/ar/count.svg?"  />
 </div>
 
-###
