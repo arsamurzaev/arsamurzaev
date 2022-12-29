@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ###
 
 <div align="left">
