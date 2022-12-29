@@ -26,4 +26,4 @@
 
 ### 
 
-<h2 align="center">My project</h2>
+<h2 align="left">My project</h2>
