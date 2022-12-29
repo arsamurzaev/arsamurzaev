@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+Me)](https://git.io/typing-svg)
 
-<img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://simpleicons.org/icons/html5.svg)" height="32"/></h1>
+<img src="https://simpleicons.org/icons/html5.svg" height="32"/></h1>
 
 <!--
 **arsamurzaev/arsamurzaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
