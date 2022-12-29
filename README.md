@@ -3,7 +3,7 @@
 
 <h2 align="center">My name is Deni, I am 19 y.o</h2>
 
-<div align="left">My stack</div>
+<h4 align="left">My stack</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
