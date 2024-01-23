@@ -1,7 +1,7 @@
 <div align="center">Hi there 👋</div>
 
 
-<h2 align="center">My name is Deni, I am 19 y.o</h2>
+<h2 align="center">My name is Deni, I am 20 y.o</h2>
 
 <h4 align="left">My stack</h4>
 
