@@ -21,8 +21,6 @@
 ###
 
 <h4 align="left">My project</h4>
-<a src="https://руссохрана.рф/">Руссохрана/</a>
-
 
 ### 
 
